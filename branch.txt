@@ -1,1 +1,2 @@
 Create the new branch called hot-fix
+Added a new line
